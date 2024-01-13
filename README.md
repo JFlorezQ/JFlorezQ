@@ -1,7 +1,6 @@
 <!-- Heading -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=200&color=FF8096&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=180&lines=Hi+there!;I'm+Juliana%2C;+a+fullstack+developer+and+book+lover+girl+%E2%9C%A9" width="100%" />
-
  <!-- About section --> 
 <h3><img src="https://usagif.com/wp-content/uploads/gifs/black-cat-104.gif" style="width: 40px;" /> About me</h3>
 
